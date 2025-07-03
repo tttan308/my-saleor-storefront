@@ -33,7 +33,7 @@ export default function RootLayout(props: { children: ReactNode }) {
                 j.async = true; j.src = 'https://livechat.jarvis.cx/livechat/rocketchat-livechat.min.js?_=201903270000';
                 h.parentNode.insertBefore(j, h);
                 w.ticketplus = w.ticketplus || {};
-                w.ticketplus.tenantid = '51bd39ec-1ad8-4aad-b130-85e212b9fe58';
+                w.ticketplus.tenantid = '60709a2e-f4d2-4c4b-a69b-5995dee8f7e1';
             })(window, document, 'script', 'https://livechat.jarvis.cx/livechat');
           `}
 				</Script>
