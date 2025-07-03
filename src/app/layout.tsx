@@ -2,8 +2,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Suspense, type ReactNode } from "react";
 import { type Metadata } from "next";
-import { DraftModeNotification } from "@/ui/components/DraftModeNotification";
 import Script from "next/script";
+import { DraftModeNotification } from "@/ui/components/DraftModeNotification";
 
 const inter = Inter({ subsets: ["latin"] });
 
